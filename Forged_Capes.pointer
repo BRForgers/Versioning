@@ -1,2 +1,5 @@
-http://svchost.adriantodt.cf/capes.pointer
+#OLD - http://svchost.adriantodt.cf/capes.pointer
+http://svchost.adriantodt.cf/capeservers/galera/generateJSON.php
+http://svchost.adriantodt.cf/capeservers/powermc/generateJSON.php
+http://svchost.adriantodt.cf/capeservers/tks/generateJSON.php
 http://brforgers.cf/capes.static
